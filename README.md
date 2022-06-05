@@ -5,7 +5,7 @@
 <section>
 <ul align="left" style="listStyle:none">
     <li style="listStyle:none">:computer:I'm a programming studant</li>
-    <li>:heart:I'm love studying web technology</li>
+    <li>:heart:I love studying web technology</li>
     <li>:cat::dog:I love dogs and cats</li>
 </ul>
 
