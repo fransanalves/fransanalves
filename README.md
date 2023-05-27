@@ -3,9 +3,8 @@
     <img align="center" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" alt="Gif de um gatinho teclando em um notebook">
 <section>
 <ul align="left">
-    <li>:computer:I'm a programming studant</li>
-    <li>:heart:I love studying web technology</li>
-    <li>:cat::dog:I love dogs and cats</li>
+    <li>:computer: I'm a programming studant</li>
+    <li>:heart: I love studying new technology</li>
 </ul>
 <h2 align="left">My favorite technologies</h2>
 <section align="left">
